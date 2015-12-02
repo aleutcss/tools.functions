@@ -1,5 +1,5 @@
 {
-  "name": "aleut-functions",
+  "name": "@aleut/aleut-functions",
   "version": "0.3.0",
   "description": "aleutcss’ default functions (based on Harry Roberts inuitcss framework)",
   "main": "_tools.functions.scss",
