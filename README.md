@@ -10,7 +10,8 @@ by 4 or 2.
 ## Install using npm:
 
 ```ssh
-    $ npm install --save-dev @aleut/tools.functions
+    $ npm install --save-dev aleut.tools.functions
+
 ```
 
 ## Usage
